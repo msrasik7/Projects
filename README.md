@@ -1,2 +1,2 @@
 # Projects
-#Calculator - simple calculator with gst option
+# Calculator - simple calculator with gst option
